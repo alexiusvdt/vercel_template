@@ -1,0 +1,4 @@
+vercel deployment
+REACT_APP_SERVICE_ID = [value]
+REACT_APP_TEMPLATE_ID = [value]
+REACT_APP_PUBLIC_KEY = [value]
